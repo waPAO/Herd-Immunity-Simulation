@@ -1,0 +1,30 @@
+Fri Dec 10 12:36:25 2021
+Herd Immunity Simulation: Ebola
+Starting Population: 1000 | Vaccinated Percentage: 0.1 | Virus: Ebola | Mortality Rate: 0.12 | Reproduction Rate: 0.5
+
+Step: 1
+ New Infections: 350 | Total Vaccinated: 315 | Total Dead: 35
+Step: 2
+ New Infections: 231 | Total Vaccinated: 516 | Total Dead: 65
+Step: 3
+ New Infections: 121 | Total Vaccinated: 617 | Total Dead: 85
+Step: 4
+ New Infections: 85 | Total Vaccinated: 686 | Total Dead: 101
+Step: 5
+ New Infections: 37 | Total Vaccinated: 718 | Total Dead: 106
+Step: 6
+ New Infections: 25 | Total Vaccinated: 740 | Total Dead: 109
+Step: 7
+ New Infections: 20 | Total Vaccinated: 760 | Total Dead: 109
+Step: 8
+ New Infections: 10 | Total Vaccinated: 770 | Total Dead: 109
+Step: 9
+ New Infections: 6 | Total Vaccinated: 776 | Total Dead: 109
+Step: 10
+ New Infections: 3 | Total Vaccinated: 777 | Total Dead: 111
+Step: 11
+ New Infections: 1 | Total Vaccinated: 778 | Total Dead: 111
+
+*Simulation Has Ended*
+ Results:
+ Starting Population: 1000 | Amount Dead: 111 | Amount Vaccinated : 889
