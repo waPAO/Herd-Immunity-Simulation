@@ -1,10 +1,8 @@
 class Virus(object):
-    # Properties and attributes of the virus used in Simulation.
     def __init__(self, name, repro_rate, mortality_rate):
-        # Define the attributes of your your virus
         self.name = name
-        # TODO Define the other attributes of Virus
-        pass
+        self.repro_rate = repro_rate
+        self.mortality_rate = mortality_rate
 
 
 # Test this class
